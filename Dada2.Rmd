@@ -1,6 +1,6 @@
 ---
 title: "Dada2 tutorial"
-output: html_notebook
+output: github_document
 ---
 
 ```{r}
